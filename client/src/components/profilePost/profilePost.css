@@ -1,0 +1,28 @@
+.profile__post {
+    background-color: white;
+    width: 100%;
+    opacity: 0.9;
+    border: 2px solid #000000;
+    margin-bottom: 45px;
+    margin-top: 45px;
+    border-radius: 8px;
+  }
+.profile__post__image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+}
+.profile__post__text {
+    font-weight: normal;
+    padding: 10px 0px 10px 20px;
+    text-align  : left;
+    color: #7F190E;
+}
+.profile__post__header {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    color: #7F190E;
+}

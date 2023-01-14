@@ -1,0 +1,329 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User Profile matches snapshot 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-12n0uxm-MuiGrid-root"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1idn90j-MuiGrid-root"
+  >
+    <div
+      className="MuiBox-root css-k008qs"
+    >
+      <nav
+        className="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-11b3ww9-MuiPaper-root-MuiAppBar-root"
+        style={
+          Object {
+            "background": "white",
+            "opacity": "20",
+          }
+        }
+      >
+        <div
+          className="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root"
+        >
+          <div
+            className="MuiTypography-root MuiTypography-h5 css-1o4wp2u-MuiTypography-root"
+          >
+            <img
+              alt="logo"
+              height="40"
+              src="logo.png"
+            />
+          </div>
+          <div
+            className="MuiBox-root css-130f8nx"
+          >
+            <button
+              className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-hrbc3j-MuiButtonBase-root-MuiButton-root"
+              disabled={false}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={0}
+              type="button"
+            >
+              Notifications
+            </button>
+            <button
+              className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-hrbc3j-MuiButtonBase-root-MuiButton-root"
+              disabled={false}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={0}
+              type="button"
+            >
+              Feed
+            </button>
+            <button
+              className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-hrbc3j-MuiButtonBase-root-MuiButton-root"
+              disabled={false}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={0}
+              type="button"
+            >
+              Logout
+            </button>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 css-8wqzlf-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item css-zat1ya-MuiGrid-root"
+      style={
+        Object {
+          "marginTop": "5%",
+        }
+      }
+    >
+      <div
+        className="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-1ete99d-MuiAvatar-root"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiAvatar-fallback css-10mi8st-MuiSvgIcon-root-MuiAvatar-fallback"
+          data-testid="PersonIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+      style={
+        Object {
+          "marginTop": "5%",
+        }
+      }
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item css-1e80d3n-MuiGrid-root"
+      >
+        <h3
+          className="MuiTypography-root MuiTypography-h3 MuiTypography-alignLeft css-15g8npa-MuiTypography-root"
+          id="firstName"
+        >
+           
+        </h3>
+        <h6
+          className="MuiTypography-root MuiTypography-h6 MuiTypography-alignLeft css-6go907-MuiTypography-root"
+        >
+          2
+           
+        </h6>
+        <h6
+          className="MuiTypography-root MuiTypography-h6 MuiTypography-alignLeft css-1vxgtyc-MuiTypography-root"
+        >
+          Followers
+        </h6>
+        <br />
+        <h6
+          className="MuiTypography-root MuiTypography-h6 MuiTypography-alignLeft css-6go907-MuiTypography-root"
+        >
+          2
+           
+        </h6>
+        <h6
+          className="MuiTypography-root MuiTypography-h6 MuiTypography-alignLeft css-1vxgtyc-MuiTypography-root"
+        >
+          Following
+        </h6>
+        <h6
+          className="MuiTypography-root MuiTypography-h6 MuiTypography-alignLeft css-1lv9nvb-MuiTypography-root"
+        />
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item css-1t9mepy-MuiGrid-root"
+      >
+        <div
+          className="MuiButtonGroup-root MuiButtonGroup-contained css-zqcytf-MuiButtonGroup-root"
+          role="group"
+          style={
+            Object {
+              "color": "primary",
+              "float": "left",
+            }
+          }
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedContained MuiButtonGroup-groupedContainedHorizontal MuiButtonGroup-groupedContainedPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedContained MuiButtonGroup-groupedContainedHorizontal MuiButtonGroup-groupedContainedPrimary css-sghohy-MuiButtonBase-root-MuiButton-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            Add Post
+          </button>
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedContained MuiButtonGroup-groupedContainedHorizontal MuiButtonGroup-groupedContainedPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonGroup-grouped MuiButtonGroup-groupedHorizontal MuiButtonGroup-groupedContained MuiButtonGroup-groupedContainedHorizontal MuiButtonGroup-groupedContainedPrimary css-sghohy-MuiButtonBase-root-MuiButton-root"
+            disabled={false}
+            onBlur={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "marginLeft": 3,
+              }
+            }
+            tabIndex={0}
+            type="button"
+          >
+            Add Status
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-12n0uxm-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-1fttiv4-MuiGrid-root"
+      style={
+        Object {
+          "marginTop": "2%",
+        }
+      }
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+      >
+        Photos
+      </h6>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-u9xb5q-MuiGrid-root"
+      style={
+        Object {
+          "marginTop": "2%",
+        }
+      }
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+      >
+        Status
+      </h6>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-12n0uxm-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-9yge8p-MuiGrid-root"
+    >
+      <hr
+        className="MuiDivider-root MuiDivider-fullWidth css-1ygrocx-MuiDivider-root"
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-17og9mj-MuiGrid-root"
+    >
+      <hr
+        className="MuiDivider-root MuiDivider-fullWidth css-1ygrocx-MuiDivider-root"
+      />
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-12n0uxm-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-1fttiv4-MuiGrid-root"
+    >
+      <div
+        className="MuiBox-root css-k008qs"
+      >
+        <div />
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-17og9mj-MuiGrid-root"
+    >
+      <div
+        className="MuiBox-root css-k008qs"
+      >
+        <div>
+          <div>
+            <p
+              className="MuiTypography-root MuiTypography-body1 css-m6yzyh-MuiTypography-root"
+            />
+            <p
+              className="MuiTypography-root MuiTypography-body1 css-ndaqpv-MuiTypography-root"
+            />
+          </div>
+          <div>
+            <p
+              className="MuiTypography-root MuiTypography-body1 css-m6yzyh-MuiTypography-root"
+            />
+            <p
+              className="MuiTypography-root MuiTypography-body1 css-ndaqpv-MuiTypography-root"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

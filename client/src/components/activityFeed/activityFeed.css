@@ -1,0 +1,11 @@
+.timeline {
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 20px;
+}
+
+.user {
+    align-items: center;
+    padding-bottom: 10px;
+    display: flex;
+}

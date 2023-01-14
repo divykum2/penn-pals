@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Activity feed matches snapshot 1`] = `
+<div>
+  <p
+    className="MuiTypography-root MuiTypography-body1 css-m6yzyh-MuiTypography-root"
+  />
+  <p
+    className="MuiTypography-root MuiTypography-body1 css-ndaqpv-MuiTypography-root"
+  />
+</div>
+`;

@@ -1,0 +1,16 @@
+.suggestedUser {
+    border-radius: 8px;
+    border: 2px solid #000000;
+    padding-top: 5px;
+    margin-top: 10px;
+    background-color: white;
+    opacity: 0.9;
+}
+
+
+.userBlock {
+    padding: 20px 10px 20px 20px;
+    border-top: 2px solid #000000;
+    margin-top: 15px;
+    text-align: left;
+}
